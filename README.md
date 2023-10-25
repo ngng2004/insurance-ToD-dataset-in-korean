@@ -1,10 +1,3 @@
----
-language: ko
-license: apache-2.0
-tags:
-  - korean
----
-
 # Korean Task-oriented Dialogue (ToD) Dataset in the Insurance Domain
 
 ## Korean ToD dataset
